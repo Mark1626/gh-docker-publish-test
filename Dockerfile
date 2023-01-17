@@ -1,6 +1,6 @@
-ARG ARCH=native
-
 FROM almalinux:9
+
+ARG ARCH=native
 
 WORKDIR /home/mark
 
